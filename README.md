@@ -11,3 +11,5 @@ All files in the folder "paper-of-interest" are relavant to the paper "Learning 
 A few example outputs can be found in "paper-of-interest/outputs". 
 A few example inputs can be found in "paper-of-interest/FSC147_384_V2"
 A video demonstration of the code running can be found at the following YouTube link: https://youtu.be/zjbV-lh7Zs4
+
+Within the demo.py file, the image of interest can be changed by altering the "img_path" variable. This is shown at the beginning of the above youtube video.
